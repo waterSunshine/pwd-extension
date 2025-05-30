@@ -1,6 +1,6 @@
 # pwd-extension
 
-This template should help get you started developing with Vue 3 in Vite.
+一个用于方便自动填入账号密码的简单插件，主要用于在浏览器自动填入账号密码功能不可用时的情况，例如https证书不可用，巴拉巴拉等，此插件简单，简陋，适用场景有限。
 
 ## Recommended IDE Setup
 
